@@ -20,11 +20,11 @@
   </properties>
   <distributionManagement>
     <repository>
-      <id>nexus</id>
+      <id>vraut</id>
       <url>http://192.168.1.11:8082/nexus/content/repositories/releases</url>
     </repository>
     <snapshotRepository>
-      <id>nexus</id>
+      <id>vraut</id>
       <url>http://192.168.1.11:8082/nexus/content/repositories/snapshots</url>
     </snapshotRepository>
   </distributionManagement>
